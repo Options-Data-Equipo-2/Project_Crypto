@@ -1,6 +1,6 @@
 # Proyecto Stream de datos de Binance: trades en tiempo real para criptomonedas
 
-![Texto alternativo](https://www.toptal.com/management-consultants/market-research-analysts/cryptocurrency-market)
+![Texto alternativo]([https://www.toptal.com/management-consultants/market-research-analysts/cryptocurrency-market](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/4087184/cover_image/regular_1708x683/Untitled-c7f4c86ddb44556b00a31a37e4219c3d.png))
 
 ## Enlaces a la API y documentación del stream
 
