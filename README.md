@@ -190,6 +190,8 @@ El procesamiento del stream de datos de Binance no implica el manejo de datos pe
 - Deben respetarse los límites de uso y términos de servicio de Binance.
 - Es importante utilizar la información de forma responsable y transparente.
 
+El procesamiento del stream de datos de mercado proporcionado por Binance no implica el manejo de datos personales, ya que la información corresponde únicamente a actividad pública del mercado financiero (precios, volumen y tiempos de transacción). Sin embargo, existen consideraciones éticas relacionadas con el posible sesgo inherente al mercado, el uso desigual del acceso a datos en tiempo real y la necesidad de respetar los términos de uso del proveedor y las regulaciones financieras. Por ello, es importante utilizar estos datos de manera responsable y transparente en aplicaciones o análisis.
+
 ---
 
 ## Ejemplos Reales de Datos
@@ -208,12 +210,6 @@ El procesamiento del stream de datos de Binance no implica el manejo de datos pe
   }
 }
 ```
----
-
-## Consideraciones éticas 
-El procesamiento del stream de datos de mercado proporcionado por Binance no implica el manejo de datos personales, ya que la información corresponde únicamente a actividad pública del mercado financiero (precios, volumen y tiempos de transacción). Sin embargo, existen consideraciones éticas relacionadas con el posible sesgo inherente al mercado, el uso desigual del acceso a datos en tiempo real y la necesidad de respetar los términos de uso del proveedor y las regulaciones financieras. Por ello, es importante utilizar estos datos de manera responsable y transparente en aplicaciones o análisis.
-
-
 ---
 
 
