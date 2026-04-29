@@ -1,5 +1,7 @@
 # Proyecto Stream de datos de Binance: trades en tiempo real para criptomonedas
 
+![Texto alternativo](https://www.toptal.com/management-consultants/market-research-analysts/cryptocurrency-market)
+
 ## Enlaces a la API y documentación del stream
 
 El stream de datos seleccionado proviene de **Binance**, una de las plataformas de intercambio de criptomonedas más grandes del mundo. Binance ofrece acceso en tiempo real a datos de mercado mediante APIs REST y WebSockets, permitiendo recibir información instantánea sobre operaciones, precios y profundidad de mercado.
