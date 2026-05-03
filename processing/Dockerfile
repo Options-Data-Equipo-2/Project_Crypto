@@ -1,4 +1,4 @@
-FROM bitnami/spark:3.5
+FROM python:3.11-slim
 
 USER root
 
@@ -9,4 +9,4 @@ RUN pip install --no-cache-dir -r requirements_processing.txt
 
 COPY spark_processing.py .
 
-CMD ["spark-submit", "spark_processing.py"]
+CMD ["python", "spark_processing.py"]
