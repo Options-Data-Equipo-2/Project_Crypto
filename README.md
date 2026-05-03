@@ -447,7 +447,7 @@ Este proyecto utiliza **dos contenedores independientes**:
 
 ## Estructura del Proyecto
 
-![Texto alternativo]([https://profile.es/wp-content/media/image.png](https://miro.medium.com/v2/resize:fit:1400/1*37qDVEfcM-fbQ3psFL-4-A.png))
+![Texto alternativo](https://www.daniloarancibia.es/_next/image?url=https%3A%2F%2Fwww.api.daniloarancibia.es%2Fassets%2F5769261f-18b3-418b-ab89-6308848c6243&w=3840&q=75)
 
 ```text
 proyecto_bd_nr/
