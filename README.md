@@ -212,18 +212,10 @@ El procesamiento del stream de datos de mercado proporcionado por Binance no imp
 ```
 ---
 
-
-## Bibliografía
-
-Binance. (2026). *Spot API Documentation*. <https://developers.binance.com/docs/binance-spot-api-docs>
-
-Binance. (2026). *WebSocket Streams Documentation*. <https://developers.binance.com/docs/binance-spot-api-docs/web-socket-streams>
-
-Binance. (2026). *Market Data Endpoints*. <https://developers.binance.com/docs/binance-spot-api-docs/rest-api/market-data-endpoints>
-
-Binance. (2026). *General API Information*. <https://developers.binance.com/docs/binance-spot-api-docs/rest-api/general-api-information>
-
 # Infraestructura y Configuración
+
+![Texto alternativo](https://miro.medium.com/0*VRAoHqBR9RCkm91p.png)
+
 
 ## Configuración de la Capa de Ingesta (Operativa)
 
@@ -454,6 +446,8 @@ Este proyecto utiliza **dos contenedores independientes**:
 ---
 
 ## Estructura del Proyecto
+
+![Texto alternativo](https://profile.es/wp-content/media/image.png)
 
 ```text
 proyecto_bd_nr/
@@ -725,6 +719,8 @@ Al finalizar:
 
 # Implementación de la capa de ingesta
 
+![Texto alternativo](https://miro.medium.com/0*VRAoHqBR9RCkm91p.png)
+
 ## Estado de Verdad Operativa
 
 La base de datos de ingesta funciona como el **stage de verdad operativa** del sistema, ya que almacena directamente los eventos originales provenientes del stream en tiempo real.
@@ -898,6 +894,8 @@ requirements_processing.txt
 
 # Análisis de Resultados
 
+![Texto alternativo](https://miro.medium.com/0*VRAoHqBR9RCkm91p.png)
+
 A partir de los datos procesados se generó inteligencia de negocio mediante consultas analíticas sobre operaciones reales del mercado cripto.
 
 ---
@@ -1048,6 +1046,17 @@ El repositorio contiene:
 ## Resultado Final
 
 Se construyó un pipeline completo de analítica distribuida capaz de transformar datos crudos en tiempo real en métricas estratégicas listas para inteligencia de negocio.
+
+# Bibliografía
+
+Binance. (2026). *Spot API Documentation*. <https://developers.binance.com/docs/binance-spot-api-docs>
+
+Binance. (2026). *WebSocket Streams Documentation*. <https://developers.binance.com/docs/binance-spot-api-docs/web-socket-streams>
+
+Binance. (2026). *Market Data Endpoints*. <https://developers.binance.com/docs/binance-spot-api-docs/rest-api/market-data-endpoints>
+
+Binance. (2026). *General API Information*. <https://developers.binance.com/docs/binance-spot-api-docs/rest-api/general-api-information>
+
 
 
 
