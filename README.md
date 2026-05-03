@@ -447,7 +447,7 @@ Este proyecto utiliza **dos contenedores independientes**:
 
 ## Estructura del Proyecto
 
-![Texto alternativo](https://profile.es/wp-content/media/image.png)
+![Texto alternativo]([https://profile.es/wp-content/media/image.png](https://miro.medium.com/v2/resize:fit:1400/1*37qDVEfcM-fbQ3psFL-4-A.png))
 
 ```text
 proyecto_bd_nr/
