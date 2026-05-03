@@ -2,9 +2,9 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+COPY requirements_ingest.txt .
+RUN pip install --no-cache-dir -r requirements_ingest.txt
 
-COPY ingest.py .
+COPY ingest_stock.py .
 
-CMD ["python", "ingest.py"]
+CMD ["python", "ingest_stock.py"]
