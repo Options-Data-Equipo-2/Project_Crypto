@@ -435,6 +435,8 @@ Se construyó una arquitectura distribuida real basada en microservicios y conte
 
 # Despliegue del Proyecto con Docker (Paso a Paso)
 
+![Texto alternativo](https://www.daniloarancibia.es/_next/image?url=https%3A%2F%2Fwww.api.daniloarancibia.es%2Fassets%2F5769261f-18b3-418b-ab89-6308848c6243&w=3840&q=75)
+
 Este proyecto utiliza **dos contenedores independientes**:
 
 1. **crypto_ingest**  
@@ -446,8 +448,6 @@ Este proyecto utiliza **dos contenedores independientes**:
 ---
 
 ## Estructura del Proyecto
-
-![Texto alternativo](https://www.daniloarancibia.es/_next/image?url=https%3A%2F%2Fwww.api.daniloarancibia.es%2Fassets%2F5769261f-18b3-418b-ab89-6308848c6243&w=3840&q=75)
 
 ```text
 proyecto_bd_nr/
@@ -719,7 +719,7 @@ Al finalizar:
 
 # Implementación de la capa de ingesta
 
-![Texto alternativo](https://miro.medium.com/0*VRAoHqBR9RCkm91p.png)
+![Texto alternativo](https://content.nationalgeographic.com.es/medio/2021/11/06/bitcoin-es-la-criptomoneda-mas-popular-y-la-que-acumula-un-mayor-valor_30d37364_1200x630.jpg)
 
 ## Estado de Verdad Operativa
 
@@ -894,7 +894,7 @@ requirements_processing.txt
 
 # Análisis de Resultados
 
-![Texto alternativo](https://miro.medium.com/0*VRAoHqBR9RCkm91p.png)
+![Texto alternativo](https://media.a24.com/p/e8901159a03ed0b2f0bf63364b7ae524/adjuntos/296/imagenes/008/486/0008486016/600x0/smart/moneda-digital-ethereumpng.png)
 
 A partir de los datos procesados se generó inteligencia de negocio mediante consultas analíticas sobre operaciones reales del mercado cripto.
 
