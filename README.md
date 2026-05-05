@@ -609,7 +609,7 @@ docker build --no-cache -t crypto-processing .
 ## Ejecución del Contenedor
 
 ```bash
-docker run -d \
+docker run -d \ 
 --name crypto_processing \
 --network spark-cluster_spark-cluster \
 -v ~/Downloads:/root/Downloads \
